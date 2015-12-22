@@ -4,7 +4,7 @@ redcarpet:
 highlighter: pygments
 permalink: none
 url: "http://hyb628.github.io"              # your host, for absolute URL
-baseurl: "/jekyll_demo"                          # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"                          # for example, '/blog' if your blog hosted on 'host/blog'
 sitename: JavaScript 标准参考教程（alpha）
 chapters:
 - introduction
