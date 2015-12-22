@@ -3,6 +3,8 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]   
 highlighter: pygments
 permalink: none
+url: "http://hyb628.github.io"              # your host, for absolute URL
+baseurl: "/jekyll"                          # for example, '/blog' if your blog hosted on 'host/blog'
 sitename: JavaScript 标准参考教程（alpha）
 chapters:
 - introduction
