@@ -3,7 +3,9 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]   
 highlighter: pygments
 permalink: none
-baseurl:             /
+
+baseurl:/jekyll_demo
+
 sitename: JavaScript 标准参考教程（alpha）
 chapters:
 - introduction
@@ -19,7 +21,6 @@ chapters:
 - appendix
 - library
 - nodejs
-
 
 introduction: 导论
 grammar: 基本语法
