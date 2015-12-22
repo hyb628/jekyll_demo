@@ -19,6 +19,13 @@ chapters:
 - library
 - nodejs
 
+# Setup
+title:               AZ of Sea
+baseurl:             /
+paginate:            5
+port:                3999
+
+
 introduction: 导论
 grammar: 基本语法
 stdlib: 标准库
