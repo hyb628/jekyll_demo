@@ -449,7 +449,7 @@ HTML Import是同步加载，会阻塞当前网页的渲染，这主要是为了
 
 ```html
 
-<link rel="import" href="/path/to/import_that_takes_5secs.html" async>
+<link rel="import" href="http://hyb628.github.io/jekyll_demo/path/to/import_that_takes_5secs.html" async>
 
 ```
 

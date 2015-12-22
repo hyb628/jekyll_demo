@@ -658,7 +658,7 @@ app.listen(3000);
  
 <footer>
 <p>
-   <a href="/">首页</a> - <a href="/about">自我介绍</a> - <a href="/article">文章</a>
+   <a href="http://hyb628.github.io/jekyll_demo/">首页</a> - <a href="http://hyb628.github.io/jekyll_demo/about">自我介绍</a> - <a href="http://hyb628.github.io/jekyll_demo/article">文章</a>
 </p>
 </footer>
  
@@ -782,7 +782,7 @@ exports.getBlogEntry = function (id){
  
 {{"{{"}}#each entries}}
    <p>
-      <a href="/article/{{"{{"}}id}}">{{"{{"}}title}}</a><br/>
+      <a href="http://hyb628.github.io/jekyll_demo/article/{{"{{"}}id}}">{{"{{"}}title}}</a><br/>
       Published: {{"{{"}}published}}
    </p>
 {{"{{"}}/each}}
@@ -834,7 +834,7 @@ Published: {{"{{"}}blog.published}}
  
    <footer>
       <p>
-         <a href="/">首页</a> - <a href="/about">自我介绍</a>
+         <a href="http://hyb628.github.io/jekyll_demo/">首页</a> - <a href="http://hyb628.github.io/jekyll_demo/about">自我介绍</a>
       </p>
    </footer>
     
@@ -906,7 +906,7 @@ app.use(express.static('public'));
 
 {% highlight javascript %}
 
-<link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="http://hyb628.github.io/jekyll_demo/bootstrap/css/bootstrap.css" rel="stylesheet">
 
 {% endhighlight %}
 
