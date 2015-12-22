@@ -3,6 +3,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]   
 highlighter: pygments
 permalink: none
+baseurl:             /
 sitename: JavaScript 标准参考教程（alpha）
 chapters:
 - introduction
@@ -18,12 +19,6 @@ chapters:
 - appendix
 - library
 - nodejs
-
-# Setup
-title:               AZ of Sea
-baseurl:             /
-paginate:            5
-port:                3999
 
 
 introduction: 导论
