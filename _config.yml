@@ -4,7 +4,7 @@ redcarpet:
 highlighter: pygments
 permalink: none
 sitename: JavaScript 标准参考教程（alpha）
-
+baseurl: /jekyll_demo
 chapters:
 - introduction
 - grammar
