@@ -7,8 +7,8 @@ modifiedOn: 2014-05-18
 
 <h2 id="introduction">导论与历史</h2>
 
-- [导论](introduction/intro.html)
-- [JavaScript的历史](introduction/history.html)
+- [导论](http://hyb628.github.io/jekyll_demo/introduction/intro.html)
+- [JavaScript的历史](http://hyb628.github.io/jekyll_demo/introduction/history.html)
 
 <h2 id="grammar">基本语法</h2>
 
@@ -107,7 +107,7 @@ modifiedOn: 2014-05-18
 
 <h2 id="appendix">附录</h2>
 
-- [JavaScript API列表](appendix/api.html)
+- [JavaScript API列表](http://hyb628.github.io/jekyll_demo/appendix/api.html)
 
 <h2 id="library">草稿一：函数库</h2>
 
