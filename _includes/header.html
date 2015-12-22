@@ -24,7 +24,7 @@
 {% for article in site.pages %}
 {% if article.category == page.category %}
 {% if article.url == page.url %}
-<li class="active"><a href="#">{{ article.title }}</a></li>
+<li class="active"><a href="jekyll_demo/#">{{ article.title }}</a></li>
 {% else %}
 <li><a href="{{article.url}}">{{ article.title }}</a></li>
 {% endif %}
