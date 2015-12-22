@@ -27,7 +27,7 @@ modifiedOn: 2014-05-18
 
 - [Object对象](http://hyb628.github.io/jekyll_demo/stdlib/object.html)
 - [Array 对象](http://hyb628.github.io/jekyll_demo/stdlib/array.html)
-- [包装对象和Boolean对象](stdlib/wrapper.html)
+- [包装对象和Boolean对象](http://hyb628.github.io/jekyll_demo/stdlib/wrapper.html)
 - [Number对象](http://hyb628.github.io/jekyll_demo/stdlib/number.html)
 - [String对象](http://hyb628.github.io/jekyll_demo/stdlib/string.html)
 - [Math对象](http://hyb628.github.io/jekyll_demo/stdlib/math.html)
@@ -47,7 +47,7 @@ modifiedOn: 2014-05-18
 - [Node节点](http://hyb628.github.io/jekyll_demo/dom/node.html)
 - [Document节点](http://hyb628.github.io/jekyll_demo/dom/document.html)
 - [Element节点](http://hyb628.github.io/jekyll_demo/dom/element.html)
-- [Text节点和DocumentFragment节点](dom/text.html)
+- [Text节点和DocumentFragment节点](http://hyb628.github.io/jekyll_demo/dom/text.html)
 - [Event对象](http://hyb628.github.io/jekyll_demo/dom/event.html)
 - [CSS操作](http://hyb628.github.io/jekyll_demo/dom/css.html)
 - [Mutation Observer](http://hyb628.github.io/jekyll_demo/dom/mutationobserver.html)
