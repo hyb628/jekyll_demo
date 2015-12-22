@@ -34,4 +34,4 @@ advanced: 高级语法
 appendix: 附录
 
 # Setup
-baseurl:             /
+baseurl:/jekyll_demo
