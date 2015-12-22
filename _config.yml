@@ -1,8 +1,11 @@
+baseurl:/jekyll_demo
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]   
 highlighter: pygments
 permalink: none
+safe:false
+
 sitename: JavaScript 标准参考教程（alpha）
 chapters:
 - introduction
@@ -32,6 +35,3 @@ nodejs: 草稿二：Node.js
 tool: 开发工具
 advanced: 高级语法
 appendix: 附录
-
-# Setup
-baseurl:/jekyll_demo
