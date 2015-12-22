@@ -4,7 +4,6 @@ redcarpet:
 highlighter: pygments
 permalink: none
 sitename: JavaScript 标准参考教程（alpha）
-baseurl: /jekyll_demo
 chapters:
 - introduction
 - grammar
@@ -33,3 +32,6 @@ nodejs: 草稿二：Node.js
 tool: 开发工具
 advanced: 高级语法
 appendix: 附录
+
+# Setup
+baseurl:             /
